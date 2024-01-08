@@ -1,0 +1,16 @@
+.background_img{
+    background: url(./img/Body\ BG.png);
+}
+.header_main{
+    max-width:1200px;
+    margin: auto;
+}
+.main_2{
+    max-width: 1000px;
+    margin: auto;
+}
+.bg_fleets_block{
+    background: url(./img/3222830\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
